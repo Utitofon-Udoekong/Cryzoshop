@@ -1,6 +1,7 @@
 <template>
   <footer>
-    <section class="callout">
+    <P>MADE WITH LOVE BY Utitofon</P>
+    <!-- <section class="callout">
       <h2>"The surprising styles of Skyline Ivy are advanced for all seasons."</h2>
       <p>Hansel Andersen</p>
     </section>
@@ -16,7 +17,7 @@
         >@sarah_edo (twitter)</a> &
         <a href="https://github.com/sdras">@sdras (github)</a>
       </p>
-    </div>
+    </div> -->
   </footer>
 </template>
 
